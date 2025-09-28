@@ -1,0 +1,1 @@
+# gamma-watermark-remover
